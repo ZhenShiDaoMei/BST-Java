@@ -1,5 +1,3 @@
-package CSE216Hw_4;
-
 import java.util.Iterator;
 import java.util.*;
 import java.util.function.Consumer;
